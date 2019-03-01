@@ -14,7 +14,7 @@
     "test": "node_modules/.bin/eslint index.js && node_modules/.bin/mocha"
   },
   "dependencies": {
-    "jshint": "^2.9.6",
+    "jshint": "^2.10.1",
     "loggy": "^1.0.4",
     "chalk": "~1.0.0",
     "pluralize": "~1.1.2"
